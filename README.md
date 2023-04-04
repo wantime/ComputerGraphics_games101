@@ -14,3 +14,6 @@ computer graphics excise from GAMES101
 
 在已有的代码框架下实现三角形的model-view-projection三种转换，键盘A\D实时控制三角形的旋转角度
 
+#### hk2
+
+在前面的基础上实现三角形的栅格化，包括 判断点是否在三角形内，z-buffer的运用等内容
